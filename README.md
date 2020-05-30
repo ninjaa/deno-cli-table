@@ -1,6 +1,8 @@
 CLI Table [![NPM Version](http://badge.fury.io/js/cli-table.svg)](http://badge.fury.io/js/cli-table) [![Build Status](https://secure.travis-ci.org/Automattic/cli-table.svg)](http://travis-ci.org/Automattic/cli-table)
 =========
 
+THIS DOES NOT WORK YET. I AM GOING TO CONVERT THIS PACKAGE TO WORK WITH DENO. I JUST STARTED ON 2020-05-30
+
 This utility allows you to render unicode-aided tables on the command line from
 your node.js scripts.
 
